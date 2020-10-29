@@ -1,0 +1,225 @@
+body {
+    font-family: ArialBlack;
+    background: #EDF2C5;
+    font-size: 100%;
+    margin: 0;
+    width: 1260px;
+    height: 940px;
+}
+header {
+    width: 940px;
+    height: 42px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 53px;
+}
+.header-container {
+    display: flex;
+    align-items: center;
+}
+.container {
+    display: block;
+    width: 940px;
+    height: 940px;
+    margin: auto;
+    margin-top: 20px;
+    max-width: 1260px;
+}
+  .Vegetables-a {
+    width: 271px;
+    height: 62px;
+    font-family: Arial Black;
+    font-size: 44px;
+    font-weight: bold;
+    color: #778a50;
+  }
+  .btn_facebook {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    object-fit: contain;
+  }
+  .btn_instagram {
+    width: 25px;
+    height: 25px;
+    padding-right: 10px;
+    border-right: 1px solid #778A50;
+    object-fit: contain;
+  }
+  .LOGIN {
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color:#778A50;
+    text-align: center;
+  }
+  .JOIN {
+    width: 35px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    padding: 3px;
+    color: #778a50;
+    text-align: center;
+  }
+  nav {
+    background: #778A50;
+    width: 940px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    border-radius: 3px; 
+}
+.list{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+  .Home {
+    width: 51px;
+    height: 23px;
+    font-family: Arial Black;
+    font-size: 16px;
+    margin: 16px 30px;
+    color: #edf2c5;
+  }
+  .About-Us {
+    width: 80px;
+    height: 23px;
+    font-family: Arial Black;
+    font-size: 16px;
+    margin: 16px 30px;
+    color: #edf2c5;
+  }
+  .Vegetables-b {
+    width: 51px;
+    height: 23px;
+    font-family: Arial Black;
+    font-size: 16px;
+    margin: 16px 30px;
+    color: #edf2c5;
+  }
+  .Online {
+    width: 56px;
+    height: 23px;
+    font-family: Arial Black;
+    font-size: 16px;
+    margin: 16px 30px;
+    color: #edf2c5;
+  }
+  .Contact-a {
+    width: 69px;
+    height: 23px;
+    font-family: Arial Black;
+    font-size: 16px;
+    margin: 16px 30px;
+    color: #edf2c5;
+  }
+  .title{
+    display: flex;
+    align-items: center;
+    width: 445px;
+    height: 45px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background: #778A50;
+    color: #EDF2C5;
+    border-radius: 3px;
+  }
+  .title p{
+    font-size: 16px;
+    font-family: Arial Black;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  aside {
+    width: 445px;
+    align-items: right;
+}
+
+.aside_title {
+    display: flex;
+    align-items: center;
+    width: 445px;
+    height: 45px;
+    font-size: 16px;
+    background: #778A50;
+    color: #EDF2C5;
+}
+
+.aside_title p {
+    font-size: 16px;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.aside_content {
+    box-sizing: border-box;
+    background: #f7fbda;
+    margin-top: 15px;
+    height: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.33;
+    color: #7d7d7d;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 15px;
+}
+
+.aside_description {
+    margin-bottom: 16px;
+}
+
+hr {
+    width: 414px;
+}
+
+.aside_email {
+    margin-top: 16px;
+    line-height: 1.83;
+}
+  .photos_container{
+    display: flex;
+  }
+  .img_vegetables_pepper{
+    width: 140px;
+    height: 140px;
+    margin-right: 12px;
+  }
+  .img_vegetables_carrot{
+  width: 140px;
+  height: 140px;
+  margin-right: 12px;
+}
+.img_vegetables_corn{
+    width: 140px;
+    height: 140px;
+}
+
+ 
+
+footer {
+    width: 1260px;
+    height: 60px;
+    background: #778a50;
+    font-size: 12px;
+    color: #EDF2C5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
